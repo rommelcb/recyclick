@@ -1,2 +1,2 @@
-# recyclick
+# recyclick-app
 Recycling application
